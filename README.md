@@ -2,7 +2,7 @@ Read me file uses markdown syntax to edit any text, forulas or codes.
 
 # Welcome to my respository
 
-## My skills ![Uploading SheIsReallySkilledSamJohnsonGIF.gif…]()
+## My skills 🎖️🎖️🎖️
 
 - Java
 - Python
@@ -18,3 +18,5 @@ Win+.
 3. My own social network
 
 # Wotech
+
+
